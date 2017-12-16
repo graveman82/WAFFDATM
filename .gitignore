@@ -1,0 +1,16 @@
+*.[oa]
+*.obj
+*.dll
+*.exe
+*.lib
+*~
+*.layout
+*.depend
+Debug/*
+Release/*
+obj/*
+bin/*
+/doc/doxy/**/*.*
+!/doc/doxy/*.dox
+!/doc/doxy/Doxyfile.*
+
